@@ -1,4 +1,4 @@
-# 关于 About
+# about
 曲阜师范大学知创未来AI社介绍资料
 # 知创未来 AI 社 · QFNU AI Community
 > 来自曲阜师范大学的学生 AI 社区，致力于在校园内构建高质量开源生态。
@@ -13,26 +13,26 @@
 - **企业 / 机构**：欢迎在项目合作、人才对接、成果落地等方面与我们联系。
 
 # 成员介绍
-| 姓名 | 年级 | 专业/班级 | GitHub ID | GitHub主页地址 |
+| 姓名 | 年级 | 专业 | GitHub ID | GitHub主页地址 |
 |---|---|---|---|---|
 | 社团主账号 | - | - | QFNU-AI-community | [https://github.com/QFNU-AI-community](https://github.com/QFNU-AI-community) |
 | 姜*成 | 25级 | 计算机 | 2912947193 | [https://github.com/2912947193](https://github.com/2912947193) |
-| 邹*鹏 | 25级 | 计算机二班 | 3yy333 | [https://github.com/3yy333](https://github.com/3yy333) |
-| 李*鑫 | 26级 | 财管二班 | liquanxin123123 | [https://github.com/liquanxin123123](https://github.com/liquanxin123123) |
-| 金*韬 | 26级 | 智感一班 | Happy-everyday-me | [https://github.com/Happy-everyday-me](https://github.com/Happy-everyday-me) |
-| 周*云 | 26级 | 法学三班 | forestconcert | [https://github.com/forestconcert](https://github.com/forestconcert) |
-| 阮*晗 | 26级 | 法学三班 | poran722 | [https://github.com/poran722](https://github.com/poran722) |
-| 张*杨 | 26级 | 电气三班 | MRYM-ALSurp | [https://github.com/MRYM-ALSurp](https://github.com/MRYM-ALSurp) |
-| 杨*刚 | 26级 | 电气四班 | Yangzigang | [https://github.com/Yangzigang](https://github.com/Yangzigang) |
-| 单*晓 | 26级 | 法学三班 | 19560777652 | [https://github.com/19560777652](https://github.com/19560777652) |
-| 张*琳 | 26级 | 法学一班 | zilin-zhang-A | [https://github.com/zilin-zhang-A](https://github.com/zilin-zhang-A) |
-| 袁*欣 | 26级 | 法学一班 | Kate122099 | [https://github.com/kate122099](https://github.com/kate122099) |
-| 刘*柠 | 26级 | 经济学四班 | LillyaaaLiu | [https://github.com/LillyaaaLiu](https://github.com/LillyaaaLiu) |
-| 牛*钦 | 26级 | 自动化二班 | Niu666857 | [https://github.com/Niu666857](https://github.com/Niu666857) |
-| 曹*山 | 26级 | 财管二班 | cqs212121 | [https://github.com/cqs212121](https://github.com/cqs212121) |
-| 赵*睿 | 25级 | 计科二班 | jerry88165-crypto | [https://jerry88165-crypto.github.io/](https://jerry88165-crypto.github.io/) |
-| 张*璇 | 26级 | 电气三班 | Makesi-liyi | [http://github.com/Makesi-liyi](http://github.com/Makesi-liyi) |
-| 刘*辉 | 26级 | 智感一班 | anshendeshen | [http://github.com/anshendeshen](http://github.com/anshendeshen) |
-| 厉*硕 | 26级 | 智感一班 | light763 | [https://github.com/light763](https://github.com/light763) |
+| 邹*鹏 | 25级 | 计算机 | 3yy333 | [https://github.com/3yy333](https://github.com/3yy333) |
+| 李*鑫 | 26级 | 财管 | liquanxin123123 | [https://github.com/liquanxin123123](https://github.com/liquanxin123123) |
+| 金*韬 | 26级 | 智感 | Happy-everyday-me | [https://github.com/Happy-everyday-me](https://github.com/Happy-everyday-me) |
+| 周*云 | 26级 | 法学 | forestconcert | [https://github.com/forestconcert](https://github.com/forestconcert) |
+| 阮*晗 | 26级 | 法学 | poran722 | [https://github.com/poran722](https://github.com/poran722) |
+| 张*杨 | 26级 | 电气 | MRYM-ALSurp | [https://github.com/MRYM-ALSurp](https://github.com/MRYM-ALSurp) |
+| 杨*刚 | 26级 | 电气 | Yangzigang | [https://github.com/Yangzigang](https://github.com/Yangzigang) |
+| 单*晓 | 26级 | 法学 | 19560777652 | [https://github.com/19560777652](https://github.com/19560777652) |
+| 张*琳 | 26级 | 法学 | zilin-zhang-A | [https://github.com/zilin-zhang-A](https://github.com/zilin-zhang-A) |
+| 袁*欣 | 26级 | 法学 | Kate122099 | [https://github.com/kate122099](https://github.com/kate122099) |
+| 刘*柠 | 26级 | 经济学 | LillyaaaLiu | [https://github.com/LillyaaaLiu](https://github.com/LillyaaaLiu) |
+| 牛*钦 | 26级 | 自动化 | Niu666857 | [https://github.com/Niu666857](https://github.com/Niu666857) |
+| 曹*山 | 26级 | 财管 | cqs212121 | [https://github.com/cqs212121](https://github.com/cqs212121) |
+| 赵*睿 | 25级 | 计科 | jerry88165-crypto | [https://jerry88165-crypto.github.io/](https://jerry88165-crypto.github.io/) |
+| 张*璇 | 26级 | 电气 | Makesi-liyi | [http://github.com/Makesi-liyi](http://github.com/Makesi-liyi) |
+| 刘*辉 | 26级 | 智感 | anshendeshen | [http://github.com/anshendeshen](http://github.com/anshendeshen) |
+| 厉*硕 | 26级 | 智感 | light763 | [https://github.com/light763](https://github.com/light763) |
 | 崔*鸿 | 26级 | 自动化 | takanaxilika | [https://github.com/takanaxilika](https://github.com/takanaxilika) |
-| 李*坤 | 26级 | 自动化二班 | yunshanglongmen | [http://github.com/dashboard](http://github.com/dashboard) |
+| 李*坤 | 26级 | 自动化 | yunshanglongmen | [http://github.com/dashboard](http://github.com/dashboard) |
