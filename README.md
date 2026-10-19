@@ -13,30 +13,36 @@
 - **企业 / 机构**：欢迎在项目合作、人才对接、成果落地等方面与我们联系。
 
 # 成员介绍
-| 姓名 | 年级 | 专业/班级 | GitHub ID | GitHub主页地址 |
-| ---- | ---- | ---- | ---- | ---- |
-| 社团主账号 | - | - | QFNU-AI-community | [https://github.com/QFNU-AI-community](https://github.com/QFNU-AI-community) |
-| 姜*成 | 25级 | 计算机 | 2912947193 | [https://github.com/2912947193](https://github.com/2912947193) |
-| 邹*鹏 | 25级 | 计算机二班 | 3yy333 | [https://github.com/3yy333](https://github.com/3yy333) |
-| 李*鑫 | 26级 | 财管二班 | liquanxin123123 | [https://github.com/liquanxin123123](https://github.com/liquanxin123123) |
-| 金*韬 | 26级 | 智感一班 | Happy-everyday-me | [https://github.com/Happy-everyday-me](https://github.com/Happy-everyday-me) |
-| 周*云 | 26级 | 法学三班 | forestconcert | [https://github.com/forestconcert](https://github.com/forestconcert) |
-| 阮*晗 | 26级 | 法学三班 | poran722 | [https://github.com/poran722](https://github.com/poran722) |
-| 张*杨 | 26级 | 电气三班 | MRYM-ALSurp | [https://github.com/MRYM-ALSurp](https://github.com/MRYM-ALSurp) |
-| 王*梅 | 26级 | 人工智能二班 | Aurora1114-a | [https://github.com/Aurora1114-a](https://github.com/Aurora1114-a) |
-| 杨*刚 | 26级 | 电气四班 | Yangzigang | [https://github.com/Yangzigang](https://github.com/Yangzigang) |
-| 单*晓 | 26级 | 法学三班 | 19560777652 | [https://github.com/19560777652](https://github.com/19560777652) |
-| 张*琳 | 26级 | 法学一班 | zilin-zhang-A | [https://github.com/zilin-zhang-A](https://github.com/zilin-zhang-A) |
-| 王*翰 | 26级 | 法本一班 | wwoehan | [https://github.com/wwoehan](https://github.com/wwoehan) |
-| 袁*欣 | 26级 | 法学一班 | Kate122099 | [https://github.com/kate122099](https://github.com/kate122099) |
-| 刘*柠 | 26级 | 经济学四班 | LillyaaaLiu | [https://github.com/LillyaaaLiu](https://github.com/LillyaaaLiu) |
-| 牛*钦 | 26级 | 自动化二班 | Niu666857 | [https://github.com/Niu666857](https://github.com/Niu666857) |
-| 曹*山 | 26级 | 财管二班 | cqs212121 | [https://github.com/cqs212121](https://github.com/cqs212121) |
-| 赵*睿 | 25级 | 计科二班 | jerry88165-crypto | [https://jerry88165-crypto.github.io/](https://jerry88165-crypto.github.io/) |
-| 付* | 26级 | 自动化三班 | ft-lihai | [https://github.com/ft-lihai](https://github.com/ft-lihai) |
-| 董*望 | 26级 | 自动化二班 | pkzhmhh123456 | [http://github.com/pkzhmhh123456](http://github.com/pkzhmhh123456) |
-| 张*璇 | 26级 | 电气三班 | Makesi-liyi | [http://github.com/Makesi-liyi](http://github.com/Makesi-liyi) |
-| 刘*辉 | 26级 | 智感一班 | anshendeshen | [http://github.com/anshendeshen](http://github.com/anshendeshen) |
-| 厉*硕 | 26级 | 智感一班 | light763 | [https://github.com/light763](https://github.com/light763) |
-| 崔*鸿 | 26级 | 自动化 | takanaxilika | [https://github.com/takanaxilika](https://github.com/takanaxilika) |
-| 李*坤 | 26级 | 自动化二班 | yunshanglongmen | [http://github.com/dashboard](http://github.com/dashboard) |
+| 姓名 | 年级 | GitHub ID | GitHub主页地址 |
+| ---- | ---- | --------- | -------------- |
+| 社团主账号 | - | QFNU-AI-community | [https://github.com/QFNU-AI-community](https://github.com/QFNU-AI-community) |
+| 邱*涵 | 26级 | OHYULmiao | [https://github.com/OHYULmiao](https://github.com/OHYULmiao) |
+| 姜*成 | 25级 | 2912947193 | [https://github.com/2912947193](https://github.com/2912947193) |
+| 邹*鹏 | 25级 | 3yy333 | [https://github.com/3yy333](https://github.com/3yy333) |
+| 张*丹 | 26级 | vital0224 | [https://github.com/vital0224](https://github.com/vital0224) |
+| 刘* | 26级 | lc2288 | [https://github.com/lc2288](https://github.com/lc2288) |
+| 郭*慧 | 26级 | 12306g | [https://github.com/12306g](https://github.com/12306g) |
+| 李*鑫 | 26级 | liquanxin123123 | [https://github.com/liquanxin123123](https://github.com/liquanxin123123) |
+| 金*韬 | 26级 | Happy-everyday-me | [https://github.com/Happy-everyday-me](https://github.com/Happy-everyday-me) |
+| 周*云 | 26级 | forestconcert | [https://github.com/forestconcert](https://github.com/forestconcert) |
+| 阮*晗 | 26级 | poran722 | [https://github.com/poran722](https://github.com/poran722) |
+| 张*杨 | 26级 | MRYM-ALSurp | [https://github.com/MRYM-ALSurp](https://github.com/MRYM-ALSurp) |
+| 王*梅 | 26级 | Aurora114-a | [https://github.com/Aurora114-a](https://github.com/Aurora114-a) |
+| 杨*刚 | 26级 | Yangzigang | [https://github.com/Yangzigang](https://github.com/Yangzigang) |
+| 单*晓 | 26级 | 1956077652 | [https://github.com/1956077652](https://github.com/1956077652) |
+| 张*琳 | 26级 | zilin-zhang-A | [https://github.com/zilin-zhang-A](https://github.com/zilin-zhang-A) |
+| 王*翰 | 26级 | wwoehan | [https://github.com/wwoehan](https://github.com/wwoehan) |
+| 袁*欣 | 26级 | Kate122099 | [https://github.com/kate122099](https://github.com/kate122099) |
+| 刘*柠 | 26级 | LillyaaaLiu | [https://github.com/LillyaaaLiu](https://github.com/LillyaaaLiu) |
+| 初*琪 | 25级 | cha2703 | [https://github.com/cha2703](https://github.com/cha2703) |
+| 牛*钦 | 26级 | Niu666857 | [https://github.com/Niu666857](https://github.com/Niu666857) |
+| 刘* | 26级 | LYing0209 | [https://github.com/LYing0209](https://github.com/LYing0209) |
+| 曹*山 | 26级 | cqs212121 | [https://github.com/cqs212121](https://github.com/cqs212121) |
+| 赵*睿 | 25级 | jerry88165-crypto | [https://jerry88165-crypto.github.io/](https://jerry88165-crypto.github.io/) |
+| 付* | 26级 | ft-lihai | [https://github.com/ft-lihai](https://github.com/ft-lihai) |
+| 董*望 | 26级 | pkzhmhh123456 | [http://github.com/pkzhmhh123456](http://github.com/pkzhmhh123456) |
+| 张*璇 | 26级 | Makesi-liyi | [http://github.com/Makesi-liyi](http://github.com/Makesi-liyi) |
+| 刘*辉 | 26级 | anshendeshen | [http://github.com/anshendeshen](http://github.com/anshendeshen) |
+| 厉*硕 | 26级 | light763 | [https://github.com/light763](https://github.com/light763) |
+| 崔*鸿 | 26级 | takanaxilika | [https://github.com/takanaxilika](https://github.com/takanaxilika) |
+| 李*坤 | 26级 | yunshanglongmen | [http://github.com/dashboard](http://github.com/dashboard) |
